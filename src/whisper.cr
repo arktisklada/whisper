@@ -1,6 +1,6 @@
 module Whisper
   # This module should be included with all listener classes.
-  # 
+  #
   # ex:
   # class SampleListener
   #   include Whisper::Listener
